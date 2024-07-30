@@ -7,7 +7,6 @@ Ao construir este projeto, você terá a oportunidade de aplicar seus conhecimen
 ## Sumário
 
 - [Desafio - QR code component](#desafio---qr-code-component)
-  - [Sumário](#sumário)
   - [Visão Geral](#visão-geral)
     - [Capturas de tela](#capturas-de-tela)
     - [Links](#links)
