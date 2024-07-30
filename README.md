@@ -7,6 +7,7 @@ Ao construir este projeto, você terá a oportunidade de aplicar seus conhecimen
 ## Sumário
 
 - [Desafio - QR code component](#desafio---qr-code-component)
+  - [Sumário](#sumário)
   - [Visão Geral](#visão-geral)
     - [Capturas de tela](#capturas-de-tela)
     - [Links](#links)
@@ -27,7 +28,8 @@ Ao construir este projeto, você terá a oportunidade de aplicar seus conhecimen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Repository URL: [código fonte](https://github.com/dev-jvcosta/qr-code-component-main)
+- Live URL: [QRCode component](https://vercel.com/joao-victors-projects-1a3b6293/qr-code-component-main)
 
 ## Processo
 
